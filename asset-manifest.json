@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Timeru/static/css/main.30494159.css",
+    "main.js": "/Timeru/static/js/main.dd3756ec.js",
+    "static/js/787.caafe606.chunk.js": "/Timeru/static/js/787.caafe606.chunk.js",
+    "static/media/pt-sans-all-400-normal.woff": "/Timeru/static/media/pt-sans-all-400-normal.2d16a59d6831ffb3e67d.woff",
+    "static/media/pt-sans-latin-400-normal.woff2": "/Timeru/static/media/pt-sans-latin-400-normal.eaacec0368bd74e64b38.woff2",
+    "static/media/pt-sans-cyrillic-ext-400-normal.woff2": "/Timeru/static/media/pt-sans-cyrillic-ext-400-normal.0f057f56689da73daeed.woff2",
+    "static/media/pt-sans-cyrillic-400-normal.woff2": "/Timeru/static/media/pt-sans-cyrillic-400-normal.9a796c5d2344c7f180b0.woff2",
+    "static/media/pt-sans-latin-ext-400-normal.woff2": "/Timeru/static/media/pt-sans-latin-ext-400-normal.037e66b65ae550a369a4.woff2",
+    "static/media/bebas-neue-all-400-normal.woff": "/Timeru/static/media/bebas-neue-all-400-normal.a29dc33571b2d621af09.woff",
+    "static/media/bebas-neue-latin-400-normal.woff2": "/Timeru/static/media/bebas-neue-latin-400-normal.2722c396c28250094a8c.woff2",
+    "static/media/bebas-neue-latin-ext-400-normal.woff2": "/Timeru/static/media/bebas-neue-latin-ext-400-normal.f2363170269a33a9c268.woff2",
+    "index.html": "/Timeru/index.html",
+    "main.30494159.css.map": "/Timeru/static/css/main.30494159.css.map",
+    "main.dd3756ec.js.map": "/Timeru/static/js/main.dd3756ec.js.map",
+    "787.caafe606.chunk.js.map": "/Timeru/static/js/787.caafe606.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30494159.css",
+    "static/js/main.dd3756ec.js"
+  ]
+}
