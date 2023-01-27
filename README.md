@@ -8,4 +8,8 @@ To start the project, clone the repository, run the commands:
 
 ### `yarn start`
 
+what could be fixed:
+1. Link the sweeper with the scroll buttons and make the same sweeper out of the circle, + binding one swiper to another using ref
+2. finish the adaptive
+
 Open `http://localhost:3000` to view it in your browser.
